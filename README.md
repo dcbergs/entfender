@@ -4,3 +4,4 @@ A simple game demonstrating pointer use and dynamic memory allocation. A grid/ti
 
 Runs on a Linux terminal for color/special character support.
 
+![Screenshot](screen.png)
